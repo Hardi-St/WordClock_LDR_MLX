@@ -1,6 +1,6 @@
 # Word Clock LDR brightness control MobaLedLib Extension
 
-The library adds a LDR brightness control for the Word Clock to then MobaLedLib.
+The library adds a LDR brightness control for the Word Clock to the MobaLedLib.
 
 More information see https://wiki.mobaledlib.de.
 
@@ -9,4 +9,4 @@ Questions / suggestions / praise / ...
 
 **Revision History:**
 
-**Ver.: 0.0.1** 04.08.23:  initial release
+**Ver.: 0.0.1** 28.09.23:  initial release
